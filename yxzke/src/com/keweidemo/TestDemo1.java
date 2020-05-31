@@ -23,5 +23,9 @@ public class TestDemo1 {
 		for(int i=0;i<split.length;i++){
 			System.out.println(split[i]);
 		}
+		String[] split = str2.split(",");
+		for(int i=0;i<split.length;i++){
+			System.out.println(split[i]);
+		}
 	}
 }
